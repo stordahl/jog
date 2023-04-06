@@ -1,4 +1,4 @@
-# jog
+# jog 🏃
 
 For those that can't remember npm scripts 
 
