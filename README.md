@@ -1,6 +1,6 @@
 # jog 🏃
 
-For those that can't remember npm scripts 
+For those that can't remember npm scripts. Supports npm, and pnpm repositories.
 
 ## Dependencies
 
