@@ -1,12 +1,12 @@
-# jog
+# jog 🏃
 
 For those that can't remember npm scripts 
 
 ## Dependencies
 
-[jq](https://stedolan.github.io/jq/)
-[fzf](https://github.com/junegunn/fzf)
-[node.js & npm](https://nodejs.org/)
+- [jq](https://stedolan.github.io/jq/)
+- [fzf](https://github.com/junegunn/fzf)
+- [node.js & npm](https://nodejs.org/)
 
 ## Installation
 
